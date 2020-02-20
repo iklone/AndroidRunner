@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Possible orderings for sessions -->
+    <string-array name="orders">
+        <item>Most Recent First</item>
+        <item>Oldest First</item>
+        <item>Longest Distance First</item>
+        <item>Shortest Distance First</item>
+        <item>Longest Duration First</item>
+        <item>Shortest Duration First</item>
+        <item>Highest Rated First</item>
+        <item>Lowest Rated First</item>
+        <item>Fastest First</item>
+        <item>Slowest First</item>
+    </string-array>
+</resources>
